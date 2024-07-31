@@ -36,7 +36,7 @@
 
 ## Reach me
 
-<a href="https://www.linkedin.com/in/mateus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/mateusfnogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 [![GitHub](https://img.shields.io/github/followers/mateusfnogueira?label=follow&style=social)](github.com/mateusfnogueira)
 
 <!--
